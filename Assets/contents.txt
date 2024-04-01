@@ -1,0 +1,2 @@
+
+All the files in the assets are used in the game for background, sound etc
